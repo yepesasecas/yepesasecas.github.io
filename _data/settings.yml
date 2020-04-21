@@ -1,6 +1,6 @@
 basic_settings:
   site_title: La pizza es bella
-  site_tagline: by a pizza lover % Software Engineer
+  site_tagline: by a pizza lover & Software Engineer
   favicon_image: /images/favicon.png
 
 header_settings:
